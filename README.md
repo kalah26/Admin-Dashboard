@@ -1,5 +1,5 @@
 # Admin-Dashboard
-A top assignement. <a href="https://kalah26.github.io/Admin-Dashboard/">Demo<a>
+A top assignement. <a href="https://kalah26.github.io/Admin-Dashboard/" target="_blank">Demo<a>
 
 This project permitted me to grasp the awesomeness of grid and svg formatted images.
 I had so much fun layering this layout and deciding when to use flex over grid.
